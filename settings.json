@@ -1,0 +1,67 @@
+{
+  "workbench.colorTheme": "Min Dark",
+  "editor.fontSize": 14,
+  "editor.scrollbar.vertical": "hidden",
+  "editor.scrollbar.verticalScrollbarSize": 0,
+  "security.workspace.trust.untrustedFiles": "newWindow",
+  "security.workspace.trust.startupPrompt": "never",
+  "security.workspace.trust.enabled": false,
+  // "editor.fontFamily": "Source Code Pro Medium",
+  "editor.fontFamily": "JetBrains Mono",
+
+  "extensions.autoUpdate": false,
+  "workbench.statusBar.visible": false,
+  "terminal.external.linuxExec": "kitty",
+  "terminal.explorerKind": "both",
+  "terminal.sourceControlRepositoriesKind": "both",
+  "telemetry.telemetryLevel": "off",
+  "editor.mouseWheelZoom": true,
+  "workbench.sideBar.location": "right",
+  "workbench.activityBar.location": "hidden",
+  "editor.minimap.enabled": false,
+  "window.customMenuBarAltFocus": false, 
+  "window.enableMenuBarMnemonics": false,
+  "window.menuBarVisibility": "hidden",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.editorAssociations": {
+	  "*.db": "sqlite-viewer.option"
+  },
+  "files.autoSave": "onFocusChange",
+  "workbench.startupEditor": "none",
+  "vscode_custom_css.imports": [],
+  "animations.Install-Method": "Apc Customize UI++",
+  "workbench.editor.editorActionsLocation": "hidden",
+  "workbench.editor.showTabs": "multiple",
+  "animations.Enabled": false,
+  "explorer.confirmDelete": false,
+  "python.analysis.packageIndexDepths": [
+    {
+      "name": "aiogram",
+      "depth": 2
+    },
+    {
+      "name": "matplotlib",
+      "depth": 2
+    },
+    {
+      "name": "scipy",
+      "depth": 2
+    },
+    {
+      "name": "django",
+      "depth": 2
+    },
+    {
+      "name": "flask",
+      "depth": 2
+    },
+    {
+      "name": "fastapi",
+      "depth": 2
+    }
+  ],
+  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+  "workbench.tips.enabled": false,
+  "editor.unicodeHighlight.ambiguousCharacters": false,
+  "explorer.confirmDragAndDrop": false,
+}
