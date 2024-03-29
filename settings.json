@@ -6,7 +6,6 @@
   "security.workspace.trust.untrustedFiles": "newWindow",
   "security.workspace.trust.startupPrompt": "never",
   "security.workspace.trust.enabled": false,
-  // "editor.fontFamily": "Source Code Pro Medium",
   "editor.fontFamily": "JetBrains Mono",
 
   "extensions.autoUpdate": false,
