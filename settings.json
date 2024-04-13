@@ -7,7 +7,7 @@
   "security.workspace.trust.startupPrompt": "never",
   "security.workspace.trust.enabled": false,
   "editor.fontFamily": "JetBrains Mono",
-
+  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
   "extensions.autoUpdate": false,
   "workbench.statusBar.visible": false,
   "terminal.external.linuxExec": "kitty",
@@ -59,7 +59,6 @@
       "depth": 2
     }
   ],
-  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
   "workbench.tips.enabled": false,
   "editor.unicodeHighlight.ambiguousCharacters": false,
   "explorer.confirmDragAndDrop": false,
