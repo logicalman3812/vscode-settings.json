@@ -69,7 +69,6 @@
     "editor.cursorStyle": "line-thin",
     "editor.fontFamily": "jetbrains-mono-nerd-font, 'JetBrains Mono NL', Consolas, 'Courier New', monospace",
     "editor.fontLigatures": true,
-    "cloudcode.duetAI.project": "gen-lang-client-0765287913",
     "workbench.sideBar.location": "right",
     "symbols.hidesExplorerArrows": false
   }
